@@ -21,4 +21,6 @@
 ![Minha cara](https://www.kambe-events.co.uk/wp-content/uploads/2013/11/Sad-Clown.jpg)
 
 [POrtfólio](https://img.freepik.com/vetores-gratis/glitch-error-404-page_23-2148105404.jpg?w=2000)
+
+[![Linkando Imagem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK76HKlaQ4vmpNk2zaAr9CfX05ViZRRhv2i4Rt7mue8_slGGTiIVBldhqPy44XQ0QBl_w&usqp=CAU)](https://media.gazetadopovo.com.br/rodrigo-constantino/2019/04/lula-preso-1-1-aa1c8a08.jpg)
   
