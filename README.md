@@ -23,4 +23,19 @@
 [POrtfólio](https://img.freepik.com/vetores-gratis/glitch-error-404-page_23-2148105404.jpg?w=2000)
 
 [![Linkando Imagem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK76HKlaQ4vmpNk2zaAr9CfX05ViZRRhv2i4Rt7mue8_slGGTiIVBldhqPy44XQ0QBl_w&usqp=CAU)](https://media.gazetadopovo.com.br/rodrigo-constantino/2019/04/lula-preso-1-1-aa1c8a08.jpg)
+
+### Código do gitHub MarkDown
+
+```c#
+int Soma(int a, int b)=> return a+b;
+
+``` 
+
+### Lista de vida
+- [x] Ser irresponsável aos 18 anos
+- [x] Usar o cartão de crédito como se não houvesse amanhã
+- [x] Se arrepender
+- [x] Tomar vergonha na cara
+- [x] Estudar
+- [ ] Ficar rico
   
