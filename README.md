@@ -34,6 +34,7 @@ int Soma(int a, int b)=> return a+b;
 ### Lista de vida
 - [x] Ser irresponsável aos 18 anos
 - [x] Usar o cartão de crédito como se não houvesse amanhã
+- [X] Fazer EMPRÉSTIMOSSSSS
 - [x] Se arrepender
 - [x] Tomar vergonha na cara
 - [x] Estudar
