@@ -13,8 +13,10 @@
  1. Foi interessante 
     * não, não foi, foi frunstrante.
  3. engajante
- 4. mas o fim foi triste
- 5. kkkk
+     * Meus dedos grudaram no teclado
+ 5. mas o fim foi triste
+     * Ri alto, mas de nervoso
+ 7. kkkk
 
 ![Minha cara](https://www.kambe-events.co.uk/wp-content/uploads/2013/11/Sad-Clown.jpg)
 
