@@ -15,4 +15,7 @@
  3. engajante
  4. mas o fim foi triste
  5. kkkk
+
+![Minha cara] (https://www.kambe-events.co.uk/wp-content/uploads/2013/11/Sad-Clown.jpg)
+[POrtfólio] (https://img.freepik.com/vetores-gratis/glitch-error-404-page_23-2148105404.jpg?w=2000)
   
